@@ -1,0 +1,22 @@
+body {
+    background: url(../img/c0c6438c851ce4b0893fc6d4b1d83ee1.jpg) center no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 670px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+
+    font-size: 30px;
+    background-color: black;
+    color: red;
+    border: 1px solid black;
+    width: 250px;
+    height: 50px;
+    box-shadow: 2px 2px 20px black;
+}
+
